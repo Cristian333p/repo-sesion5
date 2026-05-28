@@ -1,7 +1,7 @@
 # saludo.py
 # Completá con tus datos reales
 
-nombre  = "Cristian Pereira"
+saludo = input("¿cual es tu nombre?: ")
 carrera = "Análisis y Desarrollo de Software"
 proyecto = "GoalKeeperNow"
 
