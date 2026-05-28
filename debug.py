@@ -8,4 +8,4 @@ for n in numeros:
     total = total + n
 
 print(f"La suma es: {total}")
-print(f"El promedio es: {total / len(numeros)}")
+print(f"El promedio de la operacion es: {total / len(numeros)}")
